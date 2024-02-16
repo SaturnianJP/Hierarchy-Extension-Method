@@ -46,7 +46,7 @@ namespace satania.harmony.hierarchy
         public static Type hierarchyEditorType;
         public static MethodInfo OnGUI;
 
-        public static string text = "てんぱすさんがんばえ～";
+        public static string text = "ああああ";
         public static float areaPer = 0.2f;
 
         public static void InvokeTreeViewOnGUI(object treeView, Rect treeViewRect, int treeViewKeyboardControlID)
